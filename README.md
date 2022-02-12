@@ -2,6 +2,7 @@
 
 Это один из первых шагов в обучающем **extension** in MakeCode.
 
+* Открыть [http://arcade.makecode.com/#tutorial:https://github.com/maxzru/MakeCode-tutorial]
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
