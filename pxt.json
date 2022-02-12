@@ -1,9 +1,8 @@
 {
-    "name": "tt",
+    "name": "maxz-tutorial",
     "description": "",
     "dependencies": {
-        "device": "*",
-        "jacdac": "github:microsoft/pxt-jacdac#v0.8.7"
+        "device": "*"
     },
     "files": [
         "main.blocks",
